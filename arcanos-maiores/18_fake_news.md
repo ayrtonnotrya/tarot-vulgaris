@@ -23,3 +23,17 @@ Por fim, a sombra é o medo paralisante. A Lua traz os monstros da noite. O medo
 
 ## 💡 Conselho do Curador
 Se está na internet, deve ser verdade. Disse ninguém inteligente, nunca.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A smartphone glowing in the dark, the screen displaying a distorted monstrous face, green toxic mist swirling around the phone, two dogs barking at it. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, moon, towers, lobster, crayfish.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A group of people walking like zombies, eyes fixed on their glowing phone screens, walking towards a cliff edge, fog obscuring the path. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, moon, towers, lobster, crayfish.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A WhatsApp logo floating in the night sky like a moon, dripping slime, illuminating a landscape of confusion and shadows. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, moon, towers, lobster, crayfish.

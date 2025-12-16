@@ -23,3 +23,17 @@ Por fim, a sombra é o defeito mecânico, o sistema fora do ar. Quando a catraca
 
 ## 💡 Conselho do Curador
 A vida cobra entrada. Se não tiver crédito, pule. Mas cuidado com o segurança.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A large metal turnstile (catraca) in a bus or subway station, crowds of people waiting to pass through, a validator machine glowing red. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, sphinx, wheel of fortune, beasts, clouds, angel.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A person jumping over a turnstile in dynamic motion, defying the barrier, urban subway tiles in the background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, sphinx, wheel of fortune, beasts, clouds, angel.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A close-up of a transport card touching the sensor, displaying "SALDO INSUFICIENTE" (implied by red light), queue of people behind looking impatient. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, sphinx, wheel of fortune, beasts, clouds, angel.

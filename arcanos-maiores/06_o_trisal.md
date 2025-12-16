@@ -23,3 +23,17 @@ Por fim, a sombra do Trisal é a superficialidade e a instabilidade. Relações 
 
 ## 💡 Conselho do Curador
 Três é demais só pra quem tem coração pequeno. O problema é dividir a conta do bar.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: Three young adults (diverse genders) sitting on a mattress on the floor in a small apartment, sharing a pizza, looking affectionately at each other, urban bohemian setting. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, angel, clouds, adam and eve, snake, garden of eden.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: Three pairs of shoes by the front door and three toothbrushes in a bathroom cup, symbolizing a three-person relationship living together. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, angel, clouds, adam and eve, snake, garden of eden.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A person standing at a street corner holding hands with two other people who are pulling in slightly different directions, a rainbow flag visible in the background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, angel, clouds, adam and eve, snake, garden of eden.

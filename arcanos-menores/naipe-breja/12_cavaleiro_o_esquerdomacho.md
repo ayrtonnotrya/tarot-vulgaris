@@ -11,3 +11,17 @@ A manipulação afetiva sofisticada. A sombra é usar o discurso de "amor livre"
 
 ## 💡 Conselho do Curador
 O Don Juan de boteco. Promete o mundo, entrega um latão.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A young man with a beard and glasses riding a vintage bicycle, carrying a book of philosophy, looking sensitive, offering a flower. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, knight, cup, horse, chalice, armor.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A man sitting on a sofa explaining something to a woman who looks bored, mansplaining posture, vinyl records in background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, knight, cup, horse, chalice, armor.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A soft-looking man smiling gently, but his shadow on the wall looks like a predator or a wolf. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, knight, cup, horse, chalice, armor.

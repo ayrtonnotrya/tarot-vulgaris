@@ -23,3 +23,17 @@ Por fim, a sombra pode ser o isolamento da realidade. Focar tanto no mundo espir
 
 ## 💡 Conselho do Curador
 Nem tudo é encosto, às vezes é só dor nas costas mesmo. Mas na dúvida, toma um banho de sal grosso.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A dignified black woman wearing traditional white lace Bahian dress and turban, sitting on a wooden chair, throwing cowrie shells (búzios) onto a table, herbs and clay pots in the background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, christian cross, nun, pope, pillars.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A spiritual altar with seven lit candles, a glass of water, white roses, and smoke from a pipe forming shapes in the air, creating a mystical atmosphere. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, christian cross, nun, pope, pillars.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A woman in white using a branch of green rue (arruda) to bless a man wearing a business suit who is bowing his head, contrast between corporate and spiritual worlds. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, christian cross, nun, pope, pillars.

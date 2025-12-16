@@ -23,3 +23,17 @@ Por fim, o Gambiarreiro na sombra vive num estado de tensão constante, pois sab
 
 ## 💡 Conselho do Curador
 Se não tem conserto, é porque você usou pouco arame. A física é apenas uma sugestão.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A shirtless man standing in a messy workshop, holding a roll of black electrical tape high in one hand and a screwdriver in the other, wires hanging from the ceiling, an improvised fan made of plastic bottles on the table. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, magic wand, robe, wizard hat, altar.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: An electric shower head (chuveiro elétrico) with exposed colorful wires connected precariously, sparks flying, steam rising, tiles in the background, symbolizing dangerous improvisation. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, magic wand, robe, wizard hat, altar.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A man perched on a ladder connecting a wire directly to a street utility pole (gato de luz), blue electrical energy crackling, urban night sky background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, magic wand, robe, wizard hat, altar.

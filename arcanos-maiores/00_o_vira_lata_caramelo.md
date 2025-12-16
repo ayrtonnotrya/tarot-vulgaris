@@ -23,3 +23,17 @@ Por fim, o lado sombrio é a falta de limites e disciplina. O Vira-Lata cruza a 
 
 ## 💡 Conselho do Curador
 Se a vida te der lixo, abane o rabo e finja que é confete. O segredo é não ter pedigree.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A skinny caramel-colored dog trotting happily across a dangerous avenue intersection, cars and buses blurring in the background, a bright yellow tropical sun shining above, urban asphalt setting. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, human, armor, cliff.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A caramel dog sleeping peacefully on top of black trash bags on a cracked sidewalk, ignoring the grey city skyscrapers in the background, bathed in a divine ray of sunlight. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, human, armor, cliff.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: Close-up of a caramel dog sitting in front of a bakery glass window, staring with spiritual longing at a rotating machine full of roasted chickens, golden light reflecting on his face. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, human, armor, cliff.

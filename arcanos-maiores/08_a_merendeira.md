@@ -23,3 +23,17 @@ Por fim, a sombra é a invisibilidade e a submissão. Aceitar ser tratada como m
 
 ## 💡 Conselho do Curador
 Amor não enche barriga, mas merenda sim. Respeite quem te alimenta.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A woman in a white uniform and hairnet standing behind a large industrial cooking pot, gently serving soup into a plastic plate held by a child, school canteen background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, lion, nature, forest, strength card, wild beast.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: Hands peeling a large amount of potatoes and carrots on a stainless steel table, showing the labor behind the food, warm lighting. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, lion, nature, forest, strength card, wild beast.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A woman smiling warmly while holding a ladle like a scepter, surrounded by empty plates and satisfied children in school uniforms. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, lion, nature, forest, strength card, wild beast.

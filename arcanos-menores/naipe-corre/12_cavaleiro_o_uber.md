@@ -11,3 +11,17 @@ A escravidão algorítmica. O cavaleiro não comanda o cavalo; o cavalo (o App) 
 
 ## 💡 Conselho do Curador
 O vendedor agressivo. Vende a mãe pra bater meta. Cuidado pra não se vender junto.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A driver inside a silver sedan car, navigating a chaotic rainy street, holding a glowing smartphone with a map application, looking stressed. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, knight, horse, wand, desert, armor.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A view of a car dashboard with candies, a water bottle, and a rosary hanging from the mirror, city lights blurring ahead. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, knight, horse, wand, desert, armor.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A car waiting at a curb with hazard lights on, a passenger running towards it in the rain. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, knight, horse, wand, desert, armor.

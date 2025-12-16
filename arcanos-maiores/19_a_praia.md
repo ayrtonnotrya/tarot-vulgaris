@@ -23,3 +23,17 @@ Por fim, a sombra é a exposição perigosa. O arrastão, a criança perdida, o 
 
 ## 💡 Conselho do Curador
 O sol nasce para todos, mas o protetor solar é caro. Descasque com dignidade.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A crowded beach scene under a blazing yellow sun, colorful umbrellas, people of all body types in swimwear, a child playing in the sand, ocean waves in background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, horse, wall, sunflowers, naked child.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: Close up of a cold beer bottle sweating condensation, a plate of fried fish, and roasted cheese on a stick, with the blue sea and sand in the background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, horse, wall, sunflowers, naked child.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A group of friends playing soccer on the wet sand, silhouettes against a bright sun, joy and movement. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, horse, wall, sunflowers, naked child.

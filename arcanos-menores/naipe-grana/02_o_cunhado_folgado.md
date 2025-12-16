@@ -11,3 +11,17 @@ O parasitismo e o dreno de recursos. A sombra é o dinheiro emprestado que nunca
 
 ## 💡 Conselho do Curador
 Malabarismo financeiro. É tirar de um cartão pra pagar o outro. Cuidado pra não cair.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A man lying in a hammock, wearing flip-flops and shorts, holding a beer can in one hand and juggling a coin in the other, lazy expression. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacles, infinity sign, ships, star in circle.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A hand reaching into someone else's pocket to take a wallet, while smiling casually, parasitic relationship. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacles, infinity sign, ships, star in circle.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A guest sleeping on a couch with dirty feet on the coffee table, empty beer cans around, overstaying welcome. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacles, infinity sign, ships, star in circle.

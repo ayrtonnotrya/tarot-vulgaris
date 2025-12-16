@@ -13,3 +13,17 @@ A infidelidade e a imaturidade crônica. A sombra é o "lelelê" eterno. O homem
 
 ## 💡 Conselho do Curador
 O paizão do rolê. Cuida de todos, paga a conta e ainda leva o bêbado pra casa.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A charismatic man sitting on a plastic chair in a bar, playing a cavaquinho, wearing sunglasses and a gold chain, smiling charmingly, beer bottles on the table. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, king, cup, throne, chalice, crown.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A man singing into a microphone, one hand on his chest, winking at the audience, exuding confidence and emotion. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, king, cup, throne, chalice, crown.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A man surrounded by women, laughing, hiding a wedding ring in his pocket, atmosphere of seduction and irresponsibility. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, king, cup, throne, chalice, crown.

@@ -23,3 +23,17 @@ Por fim, a sombra é a solidão pós-colapso. O dia seguinte, o silêncio constr
 
 ## 💡 Conselho do Curador
 Natal sem barraco é apenas um jantar chato. A verdade liberta, mas a família prende.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A chaotic living room scene during Christmas dinner, a table overturned, food spilling, two relatives shouting at each other, a plastic chair flying through the air. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, stone tower, lightning, falling men, crown.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: An elderly woman sitting on a sofa covering her face with shame, whilst in the background a fight breaks out between family members, a Christmas tree tipping over. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, stone tower, lightning, falling men, crown.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A roasted turkey lying on the floor surrounded by broken glass and beer cans, symbolizing the destruction of the celebration. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, stone tower, lightning, falling men, crown.

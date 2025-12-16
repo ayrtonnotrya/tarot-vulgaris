@@ -23,3 +23,17 @@ Por fim, a sombra é o vínculo tóxico que nunca morre. A pensão mantém o cas
 
 ## 💡 Conselho do Curador
 Pagar é obrigação, mas pagar sorrindo é evolução espiritual (ou deboche).
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A judge's gavel striking a table, next to it a baby pacifier and a stack of money bills, symbolizing legal obligation and family. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, sword, scales, justice figure, throne, robes.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A man sitting in a jail cell holding an empty wallet, looking regretful, iron bars casting shadows on his face. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, sword, scales, justice figure, throne, robes.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A bank slip (boleto) on a kitchen table, beside it a child's toy and a calculator, dramatic lighting. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, sword, scales, justice figure, throne, robes.

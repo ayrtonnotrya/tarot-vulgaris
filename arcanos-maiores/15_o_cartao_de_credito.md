@@ -23,3 +23,17 @@ Por fim, a sombra é a ilusão ótica. "Parcelar em 12x" faz parecer barato, mas
 
 ## 💡 Conselho do Curador
 O limite do cartão é a medida da sua ilusão. Use com moderação ou venda a alma.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A giant golden credit card hovering in the sky like a monolith, chained to the necks of two people (a man and a woman) who are surrounded by shopping bags and boxes. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, devil, horns, tail, demons, hell.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A hand inserting a credit card into a machine, red sparks flying out of the slot, symbolizing dangerous debt. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, devil, horns, tail, demons, hell.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A person looking terrified at a paper bill (fatura) that is unrolling endlessly like a carpet, numbers glowing, dark background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, devil, horns, tail, demons, hell.

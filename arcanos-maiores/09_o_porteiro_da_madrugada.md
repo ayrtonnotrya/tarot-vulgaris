@@ -23,3 +23,17 @@ Por fim, a sombra é a solidão que enlouquece. O isolamento noturno pode levar 
 
 ## 💡 Conselho do Curador
 O segredo da sabedoria é ver tudo, ouvir tudo e fingir demência na hora certa.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A lonely man sitting inside a small glass guard booth at night, illuminated by the cold blue light of surveillance monitors, a thermos of coffee on the desk. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, lantern, hermit robe, mountain, staff, wilderness.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A silhouette of a guard standing by a gate, smoking a cigarette, looking out at the empty dark street, a stray cat near his feet. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, lantern, hermit robe, mountain, staff, wilderness.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: Close up of a hand pressing a button to open a heavy automatic gate, while the other hand holds a Bible or a study book. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, lantern, hermit robe, mountain, staff, wilderness.

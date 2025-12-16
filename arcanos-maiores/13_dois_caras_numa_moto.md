@@ -23,3 +23,17 @@ Por fim, a sombra é a perda irreparável. O celular com as fotos que não tinha
 
 ## 💡 Conselho do Curador
 Se perdeu, perdeu. O importante é estar vivo para comprar outro celular parcelado.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A motorcycle with two men wearing dark helmets and raincoats, riding directly towards the viewer, the passenger holding something suspicious near his waist, ominous urban twilight. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, skeleton, scythe, horse, grim reaper, armor.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: Reflection in a car's rearview mirror showing two figures on a motorcycle right behind, evoking fear and paranoia. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, skeleton, scythe, horse, grim reaper, armor.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A dark street corner at night, empty except for the single headlight of a motorcycle casting long shadows, tense atmosphere. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, skeleton, scythe, horse, grim reaper, armor.

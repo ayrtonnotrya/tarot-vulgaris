@@ -23,3 +23,17 @@ Por fim, a sombra é a fragilidade da vida. Dois Caras numa Moto (a morte) é o 
 
 ## 💡 Conselho do Curador
 A vida é um corredor entre dois ônibus. Acelera ou vira estatística.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A motorcycle courier speeding through a narrow corridor between cars in a traffic jam, wearing a yellow raincoat and a square thermal backpack, rain falling, dynamic motion. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, chariot, horse, armor, sphinx, canopy.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A courier standing heroically next to his motorcycle on a hilltop overlooking a sprawling city, holding his helmet under his arm, sunset background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, chariot, horse, armor, sphinx, canopy.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: View from inside a car looking at a side mirror, showing a courier on a bike approaching fast with headlights on, urban chaos. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, chariot, horse, armor, sphinx, canopy.

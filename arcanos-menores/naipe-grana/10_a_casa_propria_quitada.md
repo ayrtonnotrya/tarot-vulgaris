@@ -11,3 +11,17 @@ O imobilismo e o custo oculto. A sombra é ficar preso a um imóvel ruim ou peri
 
 ## 💡 Conselho do Curador
 Herança e tradição. Dinheiro velho fala baixo, dinheiro novo grita.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: An older couple standing in front of a simple brick house, looking at it with pride, holding a deed document, children playing safely in the yard. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacles, archway, dogs, castle, star in circle.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A set of house keys resting on a table next to a document stamped "QUITADO" (paid off), sunlight streaming in through a window. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacles, archway, dogs, castle, star in circle.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A strong foundation of a house with roots growing deep into the earth, symbolizing stability and legacy. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacles, archway, dogs, castle, star in circle.

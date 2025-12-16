@@ -11,3 +11,17 @@ O excesso, o barulho e a invasão. A sombra é o som alto que inferniza o vizinh
 
 ## 💡 Conselho do Curador
 Amigos, cerveja e conversa fiada. A terapia de pobre que funciona.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A group of friends dancing and laughing on a rooftop (laje), holding beer cans, a barbecue grill smoking in the corner, favela skyline background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, cups, harvest, women dancing in circle, chalice.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A plastic table covered with meat, farofa, and beer bottles, people sitting around it in swimsuits, soaking up the sun. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, cups, harvest, women dancing in circle, chalice.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A large speaker box vibrating with sound, people partying around it, joy and chaos. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, cups, harvest, women dancing in circle, chalice.

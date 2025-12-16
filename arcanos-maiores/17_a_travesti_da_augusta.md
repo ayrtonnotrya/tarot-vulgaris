@@ -23,3 +23,17 @@ Por fim, a sombra é a desconexão espiritual. A perda da fé em si mesma e na h
 
 ## 💡 Conselho do Curador
 Brilhe, mona. O mundo é cinza demais para você ser básica.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A tall, beautiful transgender woman standing on a city street corner at night, wearing glamorous clothes, illuminated by a streetlamp that shines like a star, concrete sidewalk. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, naked woman, pool, bird, pitchers, water pouring.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A figure applying makeup in a small mirror while sitting on a curb, neon lights from clubs reflecting in puddles on the asphalt, hopeful expression. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, naked woman, pool, bird, pitchers, water pouring.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: Close up of a face with glittery makeup and starry earrings, looking up at the night sky, radiating resilience and beauty amidst darkness. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, naked woman, pool, bird, pitchers, water pouring.

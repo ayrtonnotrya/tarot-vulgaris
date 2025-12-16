@@ -11,3 +11,17 @@ A exclusão social e a vergonha. A sombra é a porta fechada na cara. Não aluga
 
 ## 💡 Conselho do Curador
 A pindaíba. Passa, mas deixa cicatriz. Aprenda a lição: tenha reserva.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A person walking past a brightly lit shopping mall window, looking inside with longing, but blocked by a glass wall, wearing worn-out clothes. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacles, snow, crutches, church window, star in circle.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A person cutting up credit cards with scissors, tears in eyes, sitting in a dark room. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacles, snow, crutches, church window, star in circle.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A door slammed shut in a face, with a red stamp saying "RECUSADO" (rejected), representing denied credit. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacles, snow, crutches, church window, star in circle.

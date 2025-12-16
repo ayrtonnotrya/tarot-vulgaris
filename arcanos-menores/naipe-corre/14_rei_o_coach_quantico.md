@@ -13,3 +13,17 @@ O charlatanismo e a venda de ilusão. A sombra é o vendedor de fumaça que prom
 
 ## 💡 Conselho do Curador
 O CEO visionário (ou alucinado). Segue ele quem tem juízo (ou quem não tem opção).
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A charismatic man standing on a stage wearing a tight suit and a headset microphone, arms open wide, illuminated by spotlights, preaching to a crowd. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, king, throne, wand, crown, robe.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A man sitting in a fancy chair holding a microphone like a scepter, a whiteboard behind him with nonsense words like "DNA", "VIBRATION", "MINDSET". NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, king, throne, wand, crown, robe.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: Close up of a man with an intense fake smile and overly white teeth, pointing directly at the viewer, selling an illusion. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, king, throne, wand, crown, robe.

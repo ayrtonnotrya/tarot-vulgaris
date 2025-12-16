@@ -23,3 +23,17 @@ Por fim, a sombra do Síndico é a fofoca e a vigilância excessiva. Ele monitor
 
 ## 💡 Conselho do Curador
 Regras existem para serem seguidas, exceto quando o síndico não está olhando.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A stern middle-aged man sitting at a desk in a building lobby, pointing aggressively at a paper document, a wall of CCTV security monitors behind him showing different camera angles. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, armor, stone throne, emperor, mountains, rams.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A man standing in a hallway holding a clipboard and pen like weapons, inspecting a tiny stain on the floor with exaggerated scrutiny, apartment doors in the background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, armor, stone throne, emperor, mountains, rams.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: An elevator interior with a notice board covered in aggressive papers written in red ink, a man in a suit blocking the door with his arm. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, armor, stone throne, emperor, mountains, rams.

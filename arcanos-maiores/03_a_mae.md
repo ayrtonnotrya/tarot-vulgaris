@@ -23,3 +23,17 @@ Por fim, a sombra da Mãe é a ansiedade projetada. Ela vê perigo em tudo e tra
 
 ## 💡 Conselho do Curador
 Amor de mãe é sagrado, mas o boleto também vence. Não romantize a dependência.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A matriarch standing in a simple kitchen, holding a large aluminum cooking pot with both hands, three children holding onto her floral skirt, a fridge and stove in the background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, crown, scepter, throne, empress, shield.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: Hands carefully packing food into a plastic container (marmita), steam rising in the shape of a heart, kitchen table setting with a checkered tablecloth. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, crown, scepter, throne, empress, shield.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A worried woman standing at an open gate at night, holding a coat, looking out into the dark street, waiting for someone to return. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, crown, scepter, throne, empress, shield.

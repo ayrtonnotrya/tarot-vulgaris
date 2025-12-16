@@ -23,3 +23,17 @@ Por fim, a sombra é a alienação hedonista. O mundo está acabando lá fora, a
 
 ## 💡 Conselho do Curador
 Não deixe a carne queimar enquanto cuida da vida dos outros. Foco na picanha.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A smiling man wearing shorts and flip-flops standing behind a smoking brick barbecue grill, holding a skewer of meat in one hand and a beer in the other, pouring beer perfectly into a glass. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, angel, wings, cups, temperance angel, robes.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: Close up of a piece of picanha meat sizzling on a grill over glowing charcoal, rock salt being sprinkled from above, smoke rising. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, angel, wings, cups, temperance angel, robes.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A backyard party scene, a man cutting meat on a wooden board while people laugh and drink in the background, sun shining. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, angel, wings, cups, temperance angel, robes.

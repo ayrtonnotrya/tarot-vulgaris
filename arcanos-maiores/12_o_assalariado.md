@@ -23,3 +23,17 @@ Por fim, a sombra é a perda da saúde e da identidade. Problemas de coluna, var
 
 ## 💡 Conselho do Curador
 O transporte público é o purgatório moderno. Aguente firme, a redenção é o fim de semana.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A man standing inside a crowded bus, holding onto the overhead handrail with one hand, looking exhausted but stoic, armpit sweating, city traffic outside the window. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, tree, rope, upside down man, hanged man, halo.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A passenger sleeping with head against the bus window, mouth slightly open, reflection of city lights on the glass, heavy traffic jam background. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, tree, rope, upside down man, hanged man, halo.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A view of many feet wearing worn-out sneakers and work shoes standing tightly together on the metal floor of a bus. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, tree, rope, upside down man, hanged man, halo.

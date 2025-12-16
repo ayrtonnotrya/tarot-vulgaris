@@ -23,3 +23,17 @@ Por fim, a sombra do "Doutor" é a mediocridade envernizada. Muitas vezes, ele n
 
 ## 💡 Conselho do Curador
 Você sabe com quem está falando? Com um idiota que acha que diploma é coroa.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: An arrogant man in an expensive suit holding a gold badge or ID card up to the viewer's face, shouting, standing in front of a fancy restaurant entrance. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pope, church, hierophant, religious robes, keys.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A man sitting on a high leather chair, feet resting on a stack of law books, looking down with disdain, holding a diploma roll like a baton. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pope, church, hierophant, religious robes, keys.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A luxury car parked across two parking spots (including a disabled spot), a man in a suit walking away without looking back, symbolizing entitlement. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pope, church, hierophant, religious robes, keys.

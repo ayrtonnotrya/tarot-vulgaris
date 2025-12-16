@@ -23,3 +23,17 @@ Por fim, a sombra é o apego ao passado e a amargura. Ficar remoendo o que foi, 
 
 ## 💡 Conselho do Curador
 Trabalhe enquanto eles dormem, para dormir quando eles estiverem infartando.
+
+
+---
+
+## 🎨 Prompts Visuais (Nano Banana)
+
+### Opção 1
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: An elderly person relaxing in a hammock in a simple porch, smiling peacefully, holding a fishing rod, a dog sleeping nearby, lush green garden. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, wreath, dancer, beasts, four evangelists.
+
+### Opção 2
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: An old couple dancing together in a living room, surrounded by photos of grandchildren on the wall, a television set in the corner. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, wreath, dancer, beasts, four evangelists.
+
+### Opção 3
+**Prompt:** STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A work uniform hanging on a hook, abandoned, while a suitcase stands packed and ready by the door, symbolizing freedom from labor. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, wreath, dancer, beasts, four evangelists.
