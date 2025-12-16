@@ -42,7 +42,7 @@ Os quatro naipes clássicos foram substituídos pelas quatro forças motrizes do
 
 ## Filosofia Visual & Texto
 Todo o conteúdo é gerado sob a curadoria do **"Curador do Caos"**.
-- **Estética:** Realismo Mágico Urbano, Cyberpunk-Favela, Tarsila do Amaral encontra Blade Runner na Augusta.
+- **Estética:** Paródia fiel do Rider-Waite-Smith. A mesma pose, a mesma composição, mas tudo avacalhado para a realidade brasileira.
 - **Tom:** Sarcasmo, crítica social, gíria paulistana e filosofia de boteco.
 
 ## Como Usar
