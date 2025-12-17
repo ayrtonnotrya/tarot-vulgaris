@@ -1,0 +1,62 @@
+[
+  {
+    "card_name": "20_o_serasa",
+    "option_selected": 1,
+    "prompt": "STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A computer screen displaying the word \"APROVADO\" in green letters, a person in front of it raising arms in relief, shackles falling off their wrists. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, angel, trumpet, coffins, judgement day.",
+    "expected_filename": "20_o_serasa_p1.png"
+  },
+  {
+    "card_name": "32_valete_o_estagiario",
+    "option_selected": 1,
+    "prompt": "STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A young person wearing a backpack, holding a tray with four coffees and a notebook, looking enthusiastic but overwhelmed in an office hallway. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, page, wand, desert, pyramids.",
+    "expected_filename": "32_valete_o_estagiario_p1.png"
+  },
+  {
+    "card_name": "60_valete_o_hater",
+    "option_selected": 1,
+    "prompt": "STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A young person standing on a hill holding a smartphone like a weapon, looking with a malicious grin, wind blowing, spying. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, page, sword, clouds, weapon.",
+    "expected_filename": "60_valete_o_hater_p1.png"
+  },
+  {
+    "card_name": "62_rainha_a_atendente_de_cartorio",
+    "option_selected": 1,
+    "prompt": "STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A woman sitting behind a glass counter, holding a giant rubber stamp, stern face, piles of documents around her, one hand extended saying \"stop\". NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, queen, sword, throne, crown.",
+    "expected_filename": "62_rainha_a_atendente_de_cartorio_p1.png"
+  },
+  {
+    "card_name": "64_as_o_13_salario",
+    "option_selected": 1,
+    "prompt": "STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A hand coming out of a cloud holding a large golden coin that looks like a Christmas bonus check, a lush garden below, feeling of temporary wealth. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacle, lily, gate, star in circle.",
+    "expected_filename": "64_as_o_13_salario_p1.png"
+  },
+  {
+    "card_name": "65_o_cunhado_folgado",
+    "option_selected": 1,
+    "prompt": "STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A man lying in a hammock, wearing flip-flops and shorts, holding a beer can in one hand and juggling a coin in the other, lazy expression. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacles, infinity sign, ships, star in circle.",
+    "expected_filename": "65_o_cunhado_folgado_p1.png"
+  },
+  {
+    "card_name": "71_o_bico",
+    "option_selected": 1,
+    "prompt": "STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A person multitasking: fixing a computer, painting a wall, and selling sweets, sweat on brow, focused on work. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacles, hammer, bench, star in circle.",
+    "expected_filename": "71_o_bico_p1.png"
+  },
+  {
+    "card_name": "73_a_casa_propria_quitada",
+    "option_selected": 1,
+    "prompt": "STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: An older couple standing in front of a simple brick house, looking at it with pride, holding a deed document, children playing safely in the yard. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, pentacles, archway, dogs, castle, star in circle.",
+    "expected_filename": "73_a_casa_propria_quitada_p1.png"
+  },
+  {
+    "card_name": "74_valete_o_vendedor_de_bala",
+    "option_selected": 1,
+    "prompt": "STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A young person standing at a traffic light holding a box of candy, looking at a coin in his hand with intense focus and ambition. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, page, pentacle, field, star in circle.",
+    "expected_filename": "74_valete_o_vendedor_de_bala_p1.png"
+  },
+  {
+    "card_name": "76_rainha_a_perua_do_shopping",
+    "option_selected": 1,
+    "prompt": "STYLE: Full bleed vintage artwork, NO BORDERS, NO FRAMES, NO TEXT. Authentic 1909 Rider-Waite style. Edge-to-edge illustration filling the entire canvas. Faded chromolithograph texture. Thick, uneven black ink outlines. Flat watercolor filling. SUBJECT: A woman sitting on a fancy chair in a shopping mall, surrounded by shopping bags from expensive brands, holding a black credit card, looking satisfied. NEGATIVE PROMPT: white border, card frame, text, typography, letters, watermark, signature, 3d render, photo, photorealistic, vector, medieval, queen, pentacle, throne, rabbit, star in circle.",
+    "expected_filename": "76_rainha_a_perua_do_shopping_p1.png"
+  }
+]
