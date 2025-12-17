@@ -7,7 +7,7 @@ import sys
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 
-INPUT_DIR = os.path.join(PROJECT_ROOT, 'assets', 'temp')
+INPUT_DIR = os.path.join(PROJECT_ROOT, 'assets', 'final')
 OUTPUT_DIR = os.path.join(PROJECT_ROOT, 'assets', 'optimized')
 
 def compress_images():
@@ -51,8 +51,8 @@ def compress_images():
                 if img.mode != 'P':
                     # verify if it has transparency
                     if img.mode == 'RGBA':
-                         # quantize with alpha
-                         optimized_img = img.quantize(colors=256, method=Image.Quantize.MAXCOVERAGE)
+                         # quantize with alpha - Use Fast Octree (method 2) as MAXCOVERAGE (1) is not supported for RGBA
+                         optimized_img = img.quantize(colors=256, method=Image.Quantize.FASTOCTREE)
                     else:
                          optimized_img = img.quantize(colors=256, method=Image.Quantize.MAXCOVERAGE)
                 else:
