@@ -1,17 +1,16 @@
-# COMENTÁRIOS DO G1
+# BRIGA DE TORCIDA
 
 ## 📜 Conceito
-A carta COMENTÁRIOS DO G1 representa a energia do naipe no cotidiano.
+A carta BRIGA DE TORCIDA representa a energia do naipe no cotidiano.
 
 ## ☀️ Luz (Virtudes)
-A liberdade de expressão crua. (Muito difícil achar luz aqui, mas...) É o termômetro da sociedade, o lugar onde o inconsciente coletivo vomita suas verdades sem filtro. A luz é a possibilidade (teórica) de debate público democrático. Às vezes, no meio do lixo, surge uma informação útil ou uma piada genial que resume o espírito do tempo.
+A paixão e o pertencimento. A luz aqui é a capacidade de sentir-se parte de algo maior, de defender com unhas e dentes quem você ama. É a adrenalina da competição, a energia vital que move as multidões. Representa a lealdade tribal, o "mexeu com um, mexeu com todos", a força coletiva que surge quando um grupo se une por um ideal (mesmo que seja um time de várzea).
 
 ## 🌑 Sombra (Vícios)
-O esgoto da humanidade e o ódio. A sombra é a toxicidade radioativa. Racismo, homofobia, misoginia e burrice destilados em frases curtas. Representa a guerra de todos contra todos, a incapacidade de diálogo, a polarização que desumaniza o oponente. É a perda da fé na espécie humana ao ler o que as pessoas pensam de verdade.
+A violência tribal e a cegueira. A sombra é o conflito pelo conflito, onde o "outro" deixa de ser humano e vira apenas um alvo a ser abatido. É a irracionalidade da massa, onde a individualidade se perde no ódio coletivo. Representa a intolerância, o fanatismo que justifica a agressão e a incapacidade de ver qualquer virtude no lado oposto. É a guerra estúpida onde todos perdem.
 
 ## 💡 Conselho do Curador
-Ganhar a discussão e perder o amigo. Valeu a pena, palestrinha?
-
+Vista a camisa, mas não perca a cabeça. Paixão sem cérebro é só barulho e hematoma.
 
 ---
 

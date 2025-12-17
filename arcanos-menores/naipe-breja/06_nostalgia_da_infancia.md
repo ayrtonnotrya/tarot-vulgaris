@@ -1,17 +1,16 @@
-# NOSTALGIA DOS MAMONAS
+# NOSTALGIA DA INFÂNCIA
 
 ## 📜 Conceito
-A carta NOSTALGIA DOS MAMONAS representa a energia do naipe no cotidiano.
+A carta NOSTALGIA DA INFÂNCIA representa a energia do naipe no cotidiano.
 
 ## ☀️ Luz (Virtudes)
-A conexão com a inocência perdida. Lembrar de um tempo onde o Brasil parecia mais feliz, mais leve e menos polarizado. A luz é o resgate da criança interior, do humor escrachado e sem filtro. Representa a memória afetiva que conforta, lembrando que a alegria é parte da identidade nacional. É a saudade que faz sorrir.
+A pureza e a liberdade. Lembrar de quando a maior preocupação era o tampão do dedão arrancado no futebol de rua. A luz é a capacidade de brincar, de se encantar com o simples. Representa a criatividade solta, o tempo elástico das tardes de domingo e a amizade desinteressada. É o resgate daquela parte de nós que ainda acredita que o mundo é um lugar mágico e cheio de descobertas.
 
 ## 🌑 Sombra (Vícios)
-A recusa em amadurecer e a idealização do passado. "No meu tempo era melhor". A sombra é ficar preso numa era que não volta mais, recusando-se a entender a complexidade do presente. É o adulto infantilizado que age como se ainda tivesse 12 anos, fugindo das responsabilidades e das mudanças sociais necessárias com a desculpa de que "o mundo ficou chato".
+A idealização e a fuga. A sombra é achar que "bom mesmo era antes" e negar a realidade adulta. É a melancolia de quem não aceita que o bairro mudou, que os amigos casaram e que a Xuxa envelheceu. Pode virar um saudosismo paralisante, onde se gasta mais tempo olhando fotos antigas do que construindo novas memórias. É a dor de crescer e perceber que o Merthiolate agora arde de outro jeito (na alma).
 
 ## 💡 Conselho do Curador
-Lembrar do passado é bom, viver nele é patético. O ex não vai voltar, supera.
-
+Visite o passado para rir, não para chorar. A criança que você foi teria orgulho de quem você é hoje?
 
 ---
 
