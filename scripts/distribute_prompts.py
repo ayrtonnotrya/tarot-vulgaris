@@ -185,8 +185,12 @@ def update_file_content(filepath, prompts):
 
 # 2. Main Logic
 def main():
-    root_dir = "/home/ayrtondouglas/Projetos/tarot-vulgaris"
-    prompts_file = os.path.join(root_dir, "prompts_cards.txt")
+    # Determine project root relative to this script
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+
+    root_dir = PROJECT_ROOT
+    prompts_file = os.path.join(root_dir, "data", "prompts_cards.txt")
     
     print("Parsing prompts file...")
     cards = parse_prompts_file(prompts_file)

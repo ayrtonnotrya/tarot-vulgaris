@@ -1,0 +1,314 @@
+[
+  {
+    "expected_filename": "09_o_porteiro_da_madrugada_p1.png",
+    "subject_description": "A lonely man sitting inside a small glass guard booth at night, illuminated by the cold blue light of surveillance monitors, a thermos of coffee on the desk."
+  },
+  {
+    "expected_filename": "06_o_trisal_p3.png",
+    "subject_description": "A person standing at a street corner holding hands with two other people who are pulling in slightly different directions, a rainbow flag visible in the background."
+  },
+  {
+    "expected_filename": "11_a_pensao_alimenticia_p1.png",
+    "subject_description": "A judge's gavel striking a table, next to it a baby pacifier and a stack of money bills, symbolizing legal obligation and family."
+  },
+  {
+    "expected_filename": "20_o_serasa_p1.png",
+    "subject_description": "A computer screen displaying the word \"APROVADO\" in green letters, a person in front of it raising arms in relief, shackles falling off their wrists."
+  },
+  {
+    "expected_filename": "08_a_merendeira_p2.png",
+    "subject_description": "Hands peeling a large amount of potatoes and carrots on a stainless steel table, showing the labor behind the food, warm lighting."
+  },
+  {
+    "expected_filename": "21_a_aposentadoria_p3.png",
+    "subject_description": "A work uniform hanging on a hook, abandoned, while a suitcase stands packed and ready by the door, symbolizing freedom from labor."
+  },
+  {
+    "expected_filename": "05_o_doutor_p3.png",
+    "subject_description": "A luxury car parked across two parking spots (including a disabled spot), a man in a suit walking away without looking back, symbolizing entitlement."
+  },
+  {
+    "expected_filename": "01_o_gambiarreiro_p1.png",
+    "subject_description": "A shirtless man standing in a messy workshop, holding a roll of black electrical tape high in one hand and a screwdriver in the other, wires hanging from the ceiling, an improvised fan made of plastic bottles on the table."
+  },
+  {
+    "expected_filename": "16_o_barraco_no_natal_p1.png",
+    "subject_description": "A chaotic living room scene during Christmas dinner, a table overturned, food spilling, two relatives shouting at each other, a plastic chair flying through the air."
+  },
+  {
+    "expected_filename": "15_o_cartao_de_credito_p2.png",
+    "subject_description": "A hand inserting a credit card into a machine, red sparks flying out of the slot, symbolizing dangerous debt."
+  },
+  {
+    "expected_filename": "03_a_mae_p2.png",
+    "subject_description": "Hands carefully packing food into a plastic container (marmita), steam rising in the shape of a heart, kitchen table setting with a checkered tablecloth."
+  },
+  {
+    "expected_filename": "17_a_travesti_da_augusta_p2.png",
+    "subject_description": "A figure applying makeup in a small mirror while sitting on a curb, neon lights from clubs reflecting in puddles on the asphalt, hopeful expression."
+  },
+  {
+    "expected_filename": "13_dois_caras_numa_moto_p2.png",
+    "subject_description": "Reflection in a car's rearview mirror showing two figures on a motorcycle right behind, evoking fear and paranoia."
+  },
+  {
+    "expected_filename": "04_o_sindico_p2.png",
+    "subject_description": "A man standing in a hallway holding a clipboard and pen like weapons, inspecting a tiny stain on the floor with exaggerated scrutiny, apartment doors in the background."
+  },
+  {
+    "expected_filename": "10_a_catraca_p1.png",
+    "subject_description": "A large metal turnstile (catraca) in a bus or subway station, crowds of people waiting to pass through, a validator machine glowing red."
+  },
+  {
+    "expected_filename": "14_o_churrasqueiro_p1.png",
+    "subject_description": "A smiling man wearing shorts and flip-flops standing behind a smoking brick barbecue grill, holding a skewer of meat in one hand and a beer in the other, pouring beer perfectly into a glass."
+  },
+  {
+    "expected_filename": "18_fake_news_p2.png",
+    "subject_description": "A group of people walking like zombies, eyes fixed on their glowing phone screens, walking towards a cliff edge, fog obscuring the path."
+  },
+  {
+    "expected_filename": "12_o_assalariado_p2.png",
+    "subject_description": "A passenger sleeping with head against the bus window, mouth slightly open, reflection of city lights on the glass, heavy traffic jam background."
+  },
+  {
+    "expected_filename": "00_o_vira_lata_caramelo_p3.png",
+    "subject_description": "Close-up of a caramel dog sitting in front of a bakery glass window, staring with spiritual longing at a rotating machine full of roasted chickens, golden light reflecting on his face."
+  },
+  {
+    "expected_filename": "19_a_praia_p1.png",
+    "subject_description": "A crowded beach scene under a blazing yellow sun, colorful umbrellas, people of all body types in swimwear, a child playing in the sand, ocean waves in background."
+  },
+  {
+    "expected_filename": "02_a_mae_de_santo_p1.png",
+    "subject_description": "A dignified black woman wearing traditional white lace Bahian dress and turban, sitting on a wooden chair, throwing cowrie shells (búzios) onto a table, herbs and clay pots in the background."
+  },
+  {
+    "expected_filename": "07_o_motoboy_p1.png",
+    "subject_description": "A motorcycle courier speeding through a narrow corridor between cars in a traffic jam, wearing a yellow raincoat and a square thermal backpack, rain falling, dynamic motion."
+  },
+  {
+    "expected_filename": "05_comentarios_do_g1_p3.png",
+    "subject_description": "A chaotic scene of people throwing stones and garbage at each other, shouting, representing polarization and hatred."
+  },
+  {
+    "expected_filename": "04_sem_sinal_de_internet_p3.png",
+    "subject_description": "A person holding a phone up to the sky in an empty field or street, desperate for connection, isolated."
+  },
+  {
+    "expected_filename": "08_preso_no_telemarketing_p1.png",
+    "subject_description": "A person bound and blindfolded, surrounded by floating telephone receivers and headsets, trapped in a loop."
+  },
+  {
+    "expected_filename": "09_insonia_dos_boletos_p1.png",
+    "subject_description": "A person sitting up in bed at night, hands covering face, giant paper bills (boletos) with barcodes hanging on the wall behind like swords."
+  },
+  {
+    "expected_filename": "13_rainha_a_atendente_de_cartorio_p1.png",
+    "subject_description": "A woman sitting behind a glass counter, holding a giant rubber stamp, stern face, piles of documents around her, one hand extended saying \"stop\"."
+  },
+  {
+    "expected_filename": "06_fuga_para_o_litoral_p2.png",
+    "subject_description": "View through a rainy windshield of red taillights ahead, grey sky, melancholy atmosphere of travel."
+  },
+  {
+    "expected_filename": "01_as_a_notificacao_extrajudicial_p1.png",
+    "subject_description": "A brown envelope marked \"URGENTE\" lying on a doormat, pierced by a letter opener (or knife) representing a threat, ominous shadow."
+  },
+  {
+    "expected_filename": "02_o_vacuo_no_whatsapp_p3.png",
+    "subject_description": "Two people sitting back to back in a room, arms crossed, a giant wall of ice separating them, phones in hand."
+  },
+  {
+    "expected_filename": "03_o_print_da_traicao_p1.png",
+    "subject_description": "A smartphone screen displaying a compromising photo or chat, cracked glass, rain falling on it, symbolizing heartbreak."
+  },
+  {
+    "expected_filename": "14_rei_o_fiscal_da_prefeitura_p3.png",
+    "subject_description": "A hand accepting money under a table, while the other hand stamps \"APPROVED\", symbolizing corruption and authority."
+  },
+  {
+    "expected_filename": "11_valete_o_hater_p3.png",
+    "subject_description": "A pair of binoculars spying on a happy couple from a distance, representing envy and surveillance."
+  },
+  {
+    "expected_filename": "07_o_gato_na_net_luz_p3.png",
+    "subject_description": "A dark living room illuminated only by a TV screen showing a soccer game, a cable running in through the window from the street."
+  },
+  {
+    "expected_filename": "10_o_cancelamento_p3.png",
+    "subject_description": "A lone person standing in a spotlight covering their face while the audience throws \"thumbs down\" signs and tomatoes."
+  },
+  {
+    "expected_filename": "12_cavaleiro_o_advogado_de_porta_de_cadeia_p3.png",
+    "subject_description": "A fox dressed in a suit shaking hands with a wolf, representing legal agility and moral flexibility."
+  },
+  {
+    "expected_filename": "06_a_vaquinha_online_p2.png",
+    "subject_description": "Many hands coming together to build a small brick house, symbolizing community effort and solidarity."
+  },
+  {
+    "expected_filename": "14_rei_o_faria_limer_p2.png",
+    "subject_description": "A man standing on top of a pile of money, looking at a smartwatch, indifferent to the city below him."
+  },
+  {
+    "expected_filename": "01_as_o_13_salario_p1.png",
+    "subject_description": "A hand coming out of a cloud holding a large golden coin that looks like a Christmas bonus check, a lush garden below, feeling of temporary wealth."
+  },
+  {
+    "expected_filename": "09_a_herdeira_da_vila_nova_p3.png",
+    "subject_description": "A beautiful private garden with a high wall separating it from a crowded city, a woman enjoying the peace oblivious to the outside."
+  },
+  {
+    "expected_filename": "03_a_reforma_do_ape_p1.png",
+    "subject_description": "A mason laying bricks in a living room, dust everywhere, a couple looking at a blueprint, three coins embedded in the wall."
+  },
+  {
+    "expected_filename": "04_o_mao_de_vaca_p3.png",
+    "subject_description": "A locked safe with cobwebs on it, symbolizing stagnant wealth and refusal to spend."
+  },
+  {
+    "expected_filename": "02_o_cunhado_folgado_p1.png",
+    "subject_description": "A man lying in a hammock, wearing flip-flops and shorts, holding a beer can in one hand and juggling a coin in the other, lazy expression."
+  },
+  {
+    "expected_filename": "11_valete_o_vendedor_de_bala_p2.png",
+    "subject_description": "A child offering a sweet to a driver inside a car, the contrast between the hot street and the air-conditioned interior."
+  },
+  {
+    "expected_filename": "07_a_fezinha_na_mega_p2.png",
+    "subject_description": "A hand crossing fingers tightly while watching a TV screen showing numbered lottery balls being drawn."
+  },
+  {
+    "expected_filename": "05_nome_sujo_p1.png",
+    "subject_description": "A person walking past a brightly lit shopping mall window, looking inside with longing, but blocked by a glass wall, wearing worn-out clothes."
+  },
+  {
+    "expected_filename": "12_cavaleiro_o_entregador_de_ifood_p2.png",
+    "subject_description": "A delivery person handing a paper bag to a hand reaching out from a gate, the transaction of service."
+  },
+  {
+    "expected_filename": "08_o_bico_p3.png",
+    "subject_description": "Hands counting small change and crumpled bills, the result of a hard day's work, simple table."
+  },
+  {
+    "expected_filename": "10_a_casa_propria_quitada_p3.png",
+    "subject_description": "A strong foundation of a house with roots growing deep into the earth, symbolizing stability and legacy."
+  },
+  {
+    "expected_filename": "13_rainha_a_perua_do_shopping_p3.png",
+    "subject_description": "Close up of manicured hands with many gold rings holding a glass of champagne, shallow luxury."
+  },
+  {
+    "expected_filename": "13_rainha_a_sapatao_da_firma_p3.png",
+    "subject_description": "Close up of a sturdy pair of hands fixing a complex machine or organizing cables, symbolizing pragmatic leadership."
+  },
+  {
+    "expected_filename": "09_o_burnout_p2.png",
+    "subject_description": "A lightbulb that has exploded and is smoking, grey and dreary background, piles of paperwork untouched."
+  },
+  {
+    "expected_filename": "12_cavaleiro_o_uber_p3.png",
+    "subject_description": "A car waiting at a curb with hazard lights on, a passenger running towards it in the rain."
+  },
+  {
+    "expected_filename": "10_metro_da_se_as_18h_p3.png",
+    "subject_description": "People struggling to enter a train door that is closing, bodies squeezed, a backpack caught in the door."
+  },
+  {
+    "expected_filename": "14_rei_o_coach_quantico_p3.png",
+    "subject_description": "Close up of a man with an intense fake smile and overly white teeth, pointing directly at the viewer, selling an illusion."
+  },
+  {
+    "expected_filename": "06_a_promocao_p1.png",
+    "subject_description": "A person walking proudly through an office holding a new ID badge up high, colleagues clapping with fake smiles in the background."
+  },
+  {
+    "expected_filename": "11_valete_o_estagiario_p3.png",
+    "subject_description": "A youth showing a smartphone screen to an older boss, pointing at a TikTok trend, representing new ideas."
+  },
+  {
+    "expected_filename": "03_o_brainstorming_p2.png",
+    "subject_description": "A group of people sitting in a circle, lightbulbs glowing above their heads, connecting lines drawn between them."
+  },
+  {
+    "expected_filename": "01_as_cnpj_mei_p1.png",
+    "subject_description": "A hand holding a large rubber stamp coming out of a cloud, hovering over a messy desk with a laptop, a coffee mug, and papers."
+  },
+  {
+    "expected_filename": "08_audio_de_15s_em_2x_p3.png",
+    "subject_description": "A clock spinning wildly fast, a calendar flipping pages rapidly, symbolizing the anxiety of modern communication."
+  },
+  {
+    "expected_filename": "04_happy_hour_da_firma_p3.png",
+    "subject_description": "An employee laughing nervously at a boss's joke, holding a drink, subtle tension in the eyes, neon bar sign background."
+  },
+  {
+    "expected_filename": "02_o_freela_p3.png",
+    "subject_description": "A split screen effect showing one person doing two different jobs: designing on a computer and baking cakes, symbolizing multiple incomes."
+  },
+  {
+    "expected_filename": "05_a_briga_de_transito_p2.png",
+    "subject_description": "A hand slamming a car horn aggressively, veins popping out, view through the windshield of a chaotic street."
+  },
+  {
+    "expected_filename": "07_o_plantao_de_fim_de_ano_p2.png",
+    "subject_description": "A security guard watching fireworks on a small TV screen in a reception booth, while the city skyline explodes with light outside the window."
+  },
+  {
+    "expected_filename": "02_o_match_no_app_p1.png",
+    "subject_description": "Two people standing apart, staring into each other's eyes, but holding smartphones that are connected by a glowing pink beam of light or heart symbol."
+  },
+  {
+    "expected_filename": "05_a_sofrencia_p3.png",
+    "subject_description": "A close up of a face singing passionately with eyes closed and tears streaming down, microphone in hand."
+  },
+  {
+    "expected_filename": "10_familia_de_comercial_de_margarina_p2.png",
+    "subject_description": "A framed family photo on a shelf, but the glass is cracked, hinting at dysfunction behind the perfection."
+  },
+  {
+    "expected_filename": "07_a_ilusao_do_vamo_marcar_p2.png",
+    "subject_description": "A calendar floating in the air with every day marked with a question mark, a confused person looking at it."
+  },
+  {
+    "expected_filename": "13_rainha_a_mae_de_pet_p1.png",
+    "subject_description": "A woman sitting in a comfortable armchair, holding a small dog dressed in a sweater, gazing at it with intense motherly love, apartment setting."
+  },
+  {
+    "expected_filename": "03_churrasco_na_laje_p1.png",
+    "subject_description": "A group of friends dancing and laughing on a rooftop (laje), holding beer cans, a barbecue grill smoking in the corner, favela skyline background."
+  },
+  {
+    "expected_filename": "11_valete_o_gay_padrao_p3.png",
+    "subject_description": "A young man judging someone else's outfit with a side-eye look, standing in a trendy bar."
+  },
+  {
+    "expected_filename": "09_final_do_campeonato_p1.png",
+    "subject_description": "A fan sitting in a stadium seat, arms crossed, smiling smugly, wearing a team jersey, a trophy visible in the background."
+  },
+  {
+    "expected_filename": "04_a_ressaca_moral_p1.png",
+    "subject_description": "A person lying in bed holding their head in pain, wearing sunglasses indoors, staring at a phone screen with regret, empty bottles on the floor."
+  },
+  {
+    "expected_filename": "14_rei_o_pagodeiro_p2.png",
+    "subject_description": "A man singing into a microphone, one hand on his chest, winking at the audience, exuding confidence and emotion."
+  },
+  {
+    "expected_filename": "08_o_ghosting_p3.png",
+    "subject_description": "An empty chair at a restaurant table set for two, a candle burning down, silence."
+  },
+  {
+    "expected_filename": "06_nostalgia_dos_mamonas_p2.png",
+    "subject_description": "Two children wearing funny costumes (rabbit, superhero) playing in a garden, vintage color palette, innocence."
+  },
+  {
+    "expected_filename": "01_as_o_copo_americano_cheio_p3.png",
+    "subject_description": "A toast view, many hands holding different glasses clinking together in the center, beer spilling slightly, celebration."
+  },
+  {
+    "expected_filename": "12_cavaleiro_o_esquerdomacho_p2.png",
+    "subject_description": "A man sitting on a sofa explaining something to a woman who looks bored, mansplaining posture, vinyl records in background."
+  }
+]

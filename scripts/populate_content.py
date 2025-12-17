@@ -350,11 +350,15 @@ def find_target_file(card_data, root_dir):
     return None
 
 def main():
-    root = "."
+    # Determine project root relative to this script
+    SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+    PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+
+    root = PROJECT_ROOT
     
     # Process Maiores
     print("Processando Arcanos Maiores...")
-    maiores = parse_maiores_robust("interpretacoes_arcanos_maiores.txt")
+    maiores = parse_maiores_robust(os.path.join(PROJECT_ROOT, "data", "interpretacoes_arcanos_maiores.txt"))
     print(f"Found {len(maiores)} Maiores cards.")
     
     for card in maiores:
@@ -383,7 +387,7 @@ def main():
 
     # Process Menores
     print("Processando Arcanos Menores...")
-    menores = parse_menores_robust("interpretacoes_arcanos_menores.txt")
+    menores = parse_menores_robust(os.path.join(PROJECT_ROOT, "data", "interpretacoes_arcanos_menores.txt"))
     print(f"Found {len(menores)} Menores cards.")
     
     for card in menores:
