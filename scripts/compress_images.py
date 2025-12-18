@@ -7,7 +7,7 @@ import sys
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 
-INPUT_DIR = os.path.join(PROJECT_ROOT, 'assets', 'final')
+INPUT_DIR = os.path.join(PROJECT_ROOT, 'assets', 'titled')
 OUTPUT_DIR = os.path.join(PROJECT_ROOT, 'assets', 'optimized')
 
 def compress_images():
